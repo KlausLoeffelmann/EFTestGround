@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/DataLayer/">
+    <Project Path="Legatro.DataLayer/Legatro.DataLayer.csproj" />
+    <Project Path="Legatro.Tests.DataLayer/Legatro.Tests.DataLayer.csproj" />
+  </Folder>
+  <Project Path="LegatroTestConsole/LegatroTestConsole.csproj" />
+</Solution>
